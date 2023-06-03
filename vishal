@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0" />
+    <title style="color: blue">our web page</title>
+  </head>
+  <body>
+    <div style="background-color:hsl(208, 86%, 51%);text-align:center">
+      <button style="background-color: rgb(209, 226, 241)">
+        <span style="font-size: 24px; padding: 24px">Home</span>
+      </button>
+      <button style="background-color: rgb(209, 226, 241)">
+        <span style="font-size: 24px; padding: 24px">About</span>
+      </button>
+      <button style="background-color: rgb(209, 226, 241)">
+        <span style="font-size: 24px; padding: 24px">Contect</span>
+      </button>
+      <button style="background-color: rgb(209, 226, 241)">
+        <span style="font-size: 24px; padding: 24px">Help</span>
+      </button>
+    </div>
+    <!--orderd list-->
+    <ol>
+        <!--list items-->
+        <b><li style="font-size: 20px;"><a href="#Rice">Rice</li></a>
+        <li style="font-size: 20px;"><a href="#Paneer">Paneer</li></a>
+        <li style="font-size: 20px;"><a href="#Paneer">Pulses</li></a>
+        <li style="font-size: 20px;"><a href="#Dosa">Dosa</li></a>
+        <li style="font-size: 20px;"><a href="#Pea">Pea</li></b></a>
+    </ol>
+    <h1
+      style="
+        font-size: 50px;
+        text-align: center;
+        color: rgb(64, 0, 255);
+        background-color: aquamarine;
+      "
+    >
+      Favorite Foods WebApp
+    </h1>
+  </body>
+  <!--orderd list-->
+  <ol style="font-size: 24px">
+    <!--list items-->
+    <li id="Rice" style="font-size: 40px; background-color: yellow"><b>Rice</b></li>
+    <p>
+      Rice is the seed of the grass species Oryza sativa (Asian rice) or less
+      commonly O. glaberrima (African rice). The name wild rice is usually used
+      for<br />
+      species of the genera Zizania and Porteresia, both wild and domesticated,
+      although the term may also be used for primitive or uncultivated
+      varieties<br />
+      of Oryza.
+    </p>
+    <img
+      src="https://m.economictimes.com/thumb/msid-93881796,width-1200,height-900,resizemode-4,imgsize-154184/after-wheat-and-sugar-govt-may-curb-rice-exports.jpg"
+      alt="rice"
+      width="370"
+      height="250"
+    />
+
+    <li id="Paneer" style="font-size: 40px; background-color: yellow"><b>Paneer</b></li>
+    <p>
+      Paneer is prepared by adding food acid, such as lemon juice, vinegar,
+      citric acid or dahi (yogurt),[20] to hot milk to separate the curds from
+      the whey.<br />
+      The curds are drained in muslin or cheesecloth and the excess water is
+      pressed out.
+    </p>
+    <img
+      src="https://static.toiimg.com/photo/96731383.cms"
+      alt="sugar"
+      width="370"
+      height="250"
+    />
+
+    <li id="Pulses" style="font-size: 40px; background-color: yellow"><b>Pulses</b></li>
+    <p>
+      Pulses, also known as grain legumes, are a group of 12 crops that includes
+      dry beans, dry peas, chickpeas, and lentils. They are high in protein,
+      fibre,<br />
+      and various vitamins, provide amino acids, and are hearty crops. They are
+      most popular in developing countries
+    </p>
+    <img
+      src="https://cdn.shopaccino.com/refresh/articles/dal-pulse-745535_l.jpg"
+      alt="Pulses"
+      width="370"
+      height="250"
+    />
+
+    <li id="Dosa" style="font-size: 40px; background-color: yellow"><b>Dosa</b></li>
+
+    <p>
+      A dosa, also called dosai, is a thin pancake in South Indian cuisine made
+      from a fermented batter of ground black lentils and rice. Dosas are
+      popular in South Asia as well as around the world. Dosas are served hot,
+      often with chutney and sambar.
+    </p>
+    <img
+      src="https://vismaifood.com/storage/app/uploads/public/8b4/19e/427/thumb__700_0_0_0_auto.jpg"
+      alt="Dosa"
+      width="370"
+      height="250"
+    />
+    <li id="Pea" style="font-size: 40px; background-color: yellow"><b>Pea</b></li>
+
+    <p>
+      The pea is most commonly the small spherical seed or the seed-pod of the
+      flowering plant species Pisum sativum. Each pod contains several peas,
+      which can be green or yellow.
+    </p>
+    <img
+      src="https://images.healthshots.com/healthshots/en/uploads/2021/08/23133154/Peas-1600x900.jpg"
+      alt="Pea"
+      width="400"
+      height="250"
+    />
+    <p style="font-size: 30px">Name-Ankit</p>
+  </ol>
+</html>
